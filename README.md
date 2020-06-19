@@ -37,3 +37,4 @@ Please remember cite our manuscript (Pei G, 2020) even you used the R codes for 
 
 ## Citation
 Pei G, Hu R, Dai Y, Zhao Z, Jia P. Decoding whole-genome mutational signatures in 37 human pan-cancers by denoising sparse autoencoder neural network. 2020. Oncogene. DOI: 10.1038/s41388-020-1343-z.
+https://pubmed.ncbi.nlm.nih.gov/32528130/
